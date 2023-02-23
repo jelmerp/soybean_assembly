@@ -1,0 +1,1 @@
+recover_reads.exe --template-read "E:\TR_44_092122\TR_44_092122\44\20220921_1117_MN27309_FAU71599_176f3935\fast5_pass\FAU71599_pass_61d5b404_0.fast5" --output-directory "E:\TR_44_092122\TR_44_092122\44\20220921_1117_MN27309_FAU71599_176f3935\fast5_recovered" "E:\data\queued_reads\complete_reads_77ae8586-81d2-4724-ab0b-d60d44353493"

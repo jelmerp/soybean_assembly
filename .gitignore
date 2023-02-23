@@ -1,0 +1,6 @@
+.nextflow
+.vscode
+data/
+results/
+sandbox/
+software/

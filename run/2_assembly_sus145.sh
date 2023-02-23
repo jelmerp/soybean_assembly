@@ -1,0 +1,1 @@
+#TODO - Filter min Q10 and min. readlen perhaps 500?
